@@ -1,0 +1,14 @@
+.blue_text{
+    color: blue;
+}
+.table , th, td{
+    border-style: double;
+
+}
+.table{
+    width: 35%;
+}
+th{
+    height: 40px;
+}
+
